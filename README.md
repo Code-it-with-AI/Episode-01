@@ -29,5 +29,6 @@ Steps to get started and build your user manual:
   Publish your manual to the [folder location] folder with name [document name]
   ```
 
+More ideas and samples are available on the [original CopilotThatJawn article](https://copilotthatjawn.com/tips/generate-user-manuals-with-copilot-playwright.md)
 
 You can see our [demo user-documentation for the CopilotThatJawn website](https://github.com/csharpfritz/CopilotThatJawn/tree/main/user-docs) on GitHub.
