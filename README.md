@@ -14,7 +14,10 @@ We learned about [CopilotThatJawn.com](CopilotThatJawn.com) a website Jeff wrote
 
 Steps to get started and build your user manual:
 1. [Install the Playwright MCP](https://github.com/microsoft/playwright-mcp)
-2. While in Agent mode, use a prompt similar to the following:
+
+   Make sure you [install Node](https://nodejs.org) if you don't already have it installed because the Playwright MCP is delivered as a Node service.  Debbie O'Brien has a [great video](https://www.youtube.com/watch?v=exsikHe20D8) to help you get started with the tools
+   
+3. While in Agent mode, use a prompt similar to the following:
   ```code
   I need to document [specific workflow/feature] at [URL] with screenshots. 
 
